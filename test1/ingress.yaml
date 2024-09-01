@@ -15,6 +15,5 @@ spec:
         backend:
           service:
             name: helloworld
-            namespace: test1
             port:
               number: 80
